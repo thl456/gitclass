@@ -8,7 +8,4 @@ i am doing another change in testbranch here
 
 this is to be merged to main branch
 another change to merge to main branch
-<<<<<<< HEAD
-today is a rainy day
-=======
->>>>>>> trialbranch
+today is a sunny day
