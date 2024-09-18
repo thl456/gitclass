@@ -1,2 +1,2 @@
 # gitclass
-this repository is for teaching git class on 9 oct
+this repository is from learning basic git class on 9 oct
